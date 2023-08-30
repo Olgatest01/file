@@ -1,0 +1,11 @@
+channels.email.address,channels.email.subscribeStatus,dateofbirth,zipcode,string
+odobrova+021@cordial.com,subscribed,1986-01-29,11123,dad
+odobrova+022@cordial.com,unsubscribed,2000-07-01,92129,mom
+odobrova+023@cordial.com,subscribed,2000-02-29,07094,son
+odobrova+024@cordial.com,unsubscribed,1986-03-01,32133,dog
+odobrova+025@cordial.com,subscribed,1989-09-12,54353,cat
+odobrova+026@cordial.com,unsubscribed,1991-09-01,98884,cow
+odobrova+027@cordial.com,subscribed,1969-12-31,22092,pet
+odobrova+028@cordial.com,subscribed,1951-12-01,11235,bird
+odobrova+029@cordial.com,subscribed,1981-03-03,77777,grandparent
+odobrova+030@cordial.com,subscribed,2022-01-01,54350,null
