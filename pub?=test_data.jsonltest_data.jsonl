@@ -1,2 +1,2 @@
-{two, foo, bar, bat, biz}
-{three, lorem, ipsum, sit, amet}
+{"id": "two", "this": "foo", "is": "bar", "a": "bat", "test": "biz"}
+{"id": "three", "this": "lorem", "is": "ipsum", "a": "sit", "test": "amet"}
